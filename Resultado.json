@@ -1,0 +1,523 @@
+{
+   "kbussines":{
+      "vendido":334831.58,
+      "total":394374.202665625,
+      "vender":59542.62266562501,
+      "recibido":"327714.3959",
+      "detalle":[
+         
+      ],
+      "porRecibir":"7117.1432999999997",
+      "porRecibirDetalle":{
+         "promesas":"4667.143",
+         "cheques":null,
+         "hipotecas":"2450.0002999999997"
+      },
+      "deuda":[
+         {
+            "opeCliente":"76.322.241-1",
+            "opeReserva":"1",
+            "cliRazonSocial":"inmobiliaria yaber limitada",
+            "ingMontoPesos":"4694.0299999999997",
+            "Haber":"26.887",
+            "Saldo":"4667.143"
+         },
+         {
+            "opeCliente":"13.729.998-4",
+            "opeReserva":"1",
+            "cliRazonSocial":"natalia patricia chahin inostroza",
+            "ingMontoPesos":"1750.0",
+            "Haber":"524.99969999999996",
+            "Saldo":"1225.0003000000002"
+         },
+         {
+            "opeCliente":"12.707.444-5",
+            "opeReserva":"1",
+            "cliRazonSocial":"steven richard mackay paslack",
+            "ingMontoPesos":"1750.0",
+            "Haber":"525.0",
+            "Saldo":"1225.0"
+         }
+      ]
+   },
+   "life":{
+      "vendido":142678.349756639,
+      "total":262567.390145764,
+      "vender":119889.04038912497,
+      "recibido":"35756.398499999996",
+      "detalle":[
+         {
+            "ingFechaVencimiento":"03092024",
+            "ingCliente":"15.466.842-K",
+            "cliRazonSocial":"In\u00e9s Betsabeth Rivas Quimen",
+            "ingMontoUF":"670000.0",
+            "ingMontoPesos":"18.5077044535062",
+            "ingGlosa":"CHEQUES A FECHA Nro. 23"
+         },
+         {
+            "ingFechaVencimiento":"03102024",
+            "ingCliente":"15.466.842-K",
+            "cliRazonSocial":"In\u00e9s Betsabeth Rivas Quimen",
+            "ingMontoUF":"670000.0",
+            "ingMontoPesos":"18.5077044535062",
+            "ingGlosa":"CHEQUES A FECHA Nro. 24"
+         },
+         {
+            "ingFechaVencimiento":"15052024",
+            "ingCliente":"9.873.572-0",
+            "cliRazonSocial":"Marcelo Francisco Barrientos Jeldes",
+            "ingMontoUF":"2907945.0",
+            "ingMontoPesos":"87.9232333333333",
+            "ingGlosa":"CHEQUES A FECHA Nro. 8740263"
+         },
+         {
+            "ingFechaVencimiento":"15062024",
+            "ingCliente":"9.873.572-0",
+            "cliRazonSocial":"Marcelo Francisco Barrientos Jeldes",
+            "ingMontoUF":"2907945.0",
+            "ingMontoPesos":"87.9232333333333",
+            "ingGlosa":"CHEQUES A FECHA Nro. 8740264"
+         },
+         {
+            "ingFechaVencimiento":"29082024",
+            "ingCliente":"17.982.694-1",
+            "cliRazonSocial":"Paulina Vergara Teuber",
+            "ingMontoUF":"295340.0",
+            "ingMontoPesos":"7.9270833333333304",
+            "ingGlosa":"TARJETA DE CREDITO BANCARIA Nro. 2809635"
+         },
+         {
+            "ingFechaVencimiento":"29092024",
+            "ingCliente":"17.982.694-1",
+            "cliRazonSocial":"Paulina Vergara Teuber",
+            "ingMontoUF":"295340.0",
+            "ingMontoPesos":"7.9270833333333304",
+            "ingGlosa":"TARJETA DE CREDITO BANCARIA Nro. 2809636"
+         },
+         {
+            "ingFechaVencimiento":"02082024",
+            "ingCliente":"16.097.278-5",
+            "cliRazonSocial":"Tamara Andrea Pacheco Fuentes",
+            "ingMontoUF":"200000.0",
+            "ingMontoPesos":"5.7769458333333299",
+            "ingGlosa":"CHEQUES A FECHA Nro. 95"
+         },
+         {
+            "ingFechaVencimiento":"02092024",
+            "ingCliente":"16.097.278-5",
+            "cliRazonSocial":"Tamara Andrea Pacheco Fuentes",
+            "ingMontoUF":"200000.0",
+            "ingMontoPesos":"5.7769458333333299",
+            "ingGlosa":"CHEQUES A FECHA Nro. 96"
+         },
+         {
+            "ingFechaVencimiento":"02102024",
+            "ingCliente":"16.097.278-5",
+            "cliRazonSocial":"Tamara Andrea Pacheco Fuentes",
+            "ingMontoUF":"200000.0",
+            "ingMontoPesos":"5.7769458333333299",
+            "ingGlosa":"CHEQUES A FECHA Nro. 97"
+         },
+         {
+            "ingFechaVencimiento":"02092024",
+            "ingCliente":"16.097.278-5",
+            "cliRazonSocial":"Tamara Andrea Pacheco Fuentes",
+            "ingMontoUF":"195300.0",
+            "ingMontoPesos":"5.23986111111111",
+            "ingGlosa":"TARJETA DE CREDITO BANCARIA Nro. 5959465"
+         },
+         {
+            "ingFechaVencimiento":"02102024",
+            "ingCliente":"16.097.278-5",
+            "cliRazonSocial":"Tamara Andrea Pacheco Fuentes",
+            "ingMontoUF":"195300.0",
+            "ingMontoPesos":"5.23986111111111",
+            "ingGlosa":"TARJETA DE CREDITO BANCARIA Nro. 5959466"
+         },
+         {
+            "ingFechaVencimiento":"02092024",
+            "ingCliente":"16.097.278-5",
+            "cliRazonSocial":"Tamara Andrea Pacheco Fuentes",
+            "ingMontoUF":"195300.0",
+            "ingMontoPesos":"5.23986111111111",
+            "ingGlosa":"TARJETA DE CREDITO BANCARIA Nro. 1643525"
+         },
+         {
+            "ingFechaVencimiento":"02102024",
+            "ingCliente":"16.097.278-5",
+            "cliRazonSocial":"Tamara Andrea Pacheco Fuentes",
+            "ingMontoUF":"195300.0",
+            "ingMontoPesos":"5.23986111111111",
+            "ingGlosa":"TARJETA DE CREDITO BANCARIA Nro. 1643526"
+         }
+      ],
+      "porRecibir":"104725.35125663904",
+      "porRecibirDetalle":{
+         "promesas":"64918.116856639055",
+         "cheques":null,
+         "hipotecas":"38285.234400000001"
+      },
+      "deuda":[
+         {
+            "opeCliente":"76.528.469-4",
+            "opeReserva":"1",
+            "cliRazonSocial":"alimentos frescos y congelados lopez spa",
+            "ingMontoPesos":"10046.48",
+            "Haber":"3013.9499999999998",
+            "Saldo":"7032.5299999999997"
+         },
+         {
+            "opeCliente":"13.731.479-7",
+            "opeReserva":"1",
+            "cliRazonSocial":"alvaro marin escobar",
+            "ingMontoPesos":"3702.3499999999999",
+            "Haber":"827.75599999999997",
+            "Saldo":"2874.5940000000001"
+         },
+         {
+            "opeCliente":"18.485.026-5",
+            "opeReserva":"2",
+            "cliRazonSocial":"amapola ines bravo bachler",
+            "ingMontoPesos":"1893.6500000000001",
+            "Haber":"378.72830000000005",
+            "Saldo":"1514.9217000000001"
+         },
+         {
+            "opeCliente":"10.668.320-4",
+            "opeReserva":"1",
+            "cliRazonSocial":"ana mar\u00eda elias barroso",
+            "ingMontoPesos":"2039.22",
+            "Haber":"407.84199999999998",
+            "Saldo":"1631.3780000000002"
+         },
+         {
+            "opeCliente":"26.613.274-3",
+            "opeReserva":"1",
+            "cliRazonSocial":"anibal rene rivero alvarez",
+            "ingMontoPesos":"2160.25",
+            "Haber":"397.34500000000003",
+            "Saldo":"1762.905"
+         },
+         {
+            "opeCliente":"16.610.960-4",
+            "opeReserva":"1",
+            "cliRazonSocial":"barbara daniela pacheco fuentes",
+            "ingMontoPesos":"1845.22",
+            "Haber":"369.09769999999997",
+            "Saldo":"1476.1223"
+         },
+         {
+            "opeCliente":"15.551.142-7",
+            "opeReserva":"1",
+            "cliRazonSocial":"claudia andrea vargas castillo",
+            "ingMontoPesos":"3730.4200000000001",
+            "Haber":"186.52099999999999",
+            "Saldo":"3543.8989999999999"
+         },
+         {
+            "opeCliente":"13.962.631-1",
+            "opeReserva":"1",
+            "cliRazonSocial":"denisse jacqueline carola almendras jara",
+            "ingMontoPesos":"1964.76",
+            "Haber":"196.476",
+            "Saldo":"1768.2840000000001"
+         },
+         {
+            "opeCliente":"19.000.192-K",
+            "opeReserva":"1",
+            "cliRazonSocial":"diego basti\u00e1n canales vallejos",
+            "ingMontoPesos":"1950.6600000000001",
+            "Haber":"195.066",
+            "Saldo":"1755.5940000000001"
+         },
+         {
+            "opeCliente":"18.147.899-3",
+            "opeReserva":"2",
+            "cliRazonSocial":"diego esteban nicol\u00e1s jara cruces",
+            "ingMontoPesos":"1779.05",
+            "Haber":"177.90500000000003",
+            "Saldo":"1601.145"
+         },
+         {
+            "opeCliente":"18.526.212-K",
+            "opeReserva":"1",
+            "cliRazonSocial":"ernesto nicol\u00e1s troncoso villegas",
+            "ingMontoPesos":"1894.6800000000001",
+            "Haber":"94.734000000000009",
+            "Saldo":"1799.9460000000001"
+         },
+         {
+            "opeCliente":"18.485.796-0",
+            "opeReserva":"1",
+            "cliRazonSocial":"felipe eduardo sepulveda barra",
+            "ingMontoPesos":"1870.5699999999999",
+            "Haber":"280.62699999999995",
+            "Saldo":"1589.943"
+         },
+         {
+            "opeCliente":"18.148.060-2",
+            "opeReserva":"1",
+            "cliRazonSocial":"fernanda belen melacho cuevas",
+            "ingMontoPesos":"5181.2600000000002",
+            "Haber":"1554.78",
+            "Saldo":"3626.4800000000005"
+         },
+         {
+            "opeCliente":"13.398.892-0",
+            "opeReserva":"1",
+            "cliRazonSocial":"freddy rodrigo apablaza cortez",
+            "ingMontoPesos":"3823.7800000000002",
+            "Haber":"382.37799999999999",
+            "Saldo":"3441.402"
+         },
+         {
+            "opeCliente":"19.195.960-4",
+            "opeReserva":"1",
+            "cliRazonSocial":"gabriel andr\u00e9s fuentes huircap\u00e1n",
+            "ingMontoPesos":"2491.1500000000001",
+            "Haber":"374.15250000000003",
+            "Saldo":"2116.9974999999999"
+         },
+         {
+            "opeCliente":"16.184.243-5",
+            "opeReserva":"1",
+            "cliRazonSocial":"gustavo rodolfo orellana alvarez",
+            "ingMontoPesos":"1867.8199999999999",
+            "Haber":"186.78199999999998",
+            "Saldo":"1681.038"
+         },
+         {
+            "opeCliente":"15.466.842-K",
+            "opeReserva":"1",
+            "cliRazonSocial":"in\u00e9s betsabeth rivas quimen",
+            "ingMontoPesos":"4456.6000000000004",
+            "Haber":"445.65999999999997",
+            "Saldo":"4010.9400000000005"
+         },
+         {
+            "opeCliente":"17.265.837-7",
+            "opeReserva":"1",
+            "cliRazonSocial":"javier alexis sepulveda mardones",
+            "ingMontoPesos":"2012.8199999999999",
+            "Haber":"201.28200000000001",
+            "Saldo":"1811.538"
+         },
+         {
+            "opeCliente":"16.996.827-6",
+            "opeReserva":"1",
+            "cliRazonSocial":"jorge diego ortiz contreras",
+            "ingMontoPesos":"1827.9200000000001",
+            "Haber":"182.792",
+            "Saldo":"1645.1280000000002"
+         },
+         {
+            "opeCliente":"14.042.967-8",
+            "opeReserva":"2",
+            "cliRazonSocial":"jorge juvenal jofre rojas",
+            "ingMontoPesos":"3411.7399999999998",
+            "Haber":"512.57320000000004",
+            "Saldo":"2899.1668"
+         },
+         {
+            "opeCliente":"9.538.831-0",
+            "opeReserva":"2",
+            "cliRazonSocial":"jose miguel espinoza silva",
+            "ingMontoPesos":"1877.1300000000001",
+            "Haber":"384.13599999999997",
+            "Saldo":"1492.9940000000001"
+         },
+         {
+            "opeCliente":"9.538.831-0",
+            "opeReserva":"1",
+            "cliRazonSocial":"jose miguel espinoza silva",
+            "ingMontoPesos":"1877.9000000000001",
+            "Haber":"384.89999999999998",
+            "Saldo":"1493.0"
+         },
+         {
+            "opeCliente":"17.218.644-0",
+            "opeReserva":"1",
+            "cliRazonSocial":"joselyn makarena bustos vivanco",
+            "ingMontoPesos":"1906.4200000000001",
+            "Haber":"190.642",
+            "Saldo":"1715.778"
+         },
+         {
+            "opeCliente":"18.355.668-1",
+            "opeReserva":"1",
+            "cliRazonSocial":"kurt stefano haarmann capra",
+            "ingMontoPesos":"1920.48",
+            "Haber":"98.372600000000006",
+            "Saldo":"1822.1074000000001"
+         },
+         {
+            "opeCliente":"13.919.995-2",
+            "opeReserva":"1",
+            "cliRazonSocial":"liliana patricia alchahue\u00f1i quinteros",
+            "ingMontoPesos":"1891.78",
+            "Haber":"189.178",
+            "Saldo":"1702.6019999999999"
+         },
+         {
+            "opeCliente":"12.564.613-1",
+            "opeReserva":"1",
+            "cliRazonSocial":"lorena marisol quezada donat",
+            "ingMontoPesos":"1871.75",
+            "Haber":"187.1746",
+            "Saldo":"1684.5753999999999"
+         },
+         {
+            "opeCliente":"9.873.572-0",
+            "opeReserva":"1",
+            "cliRazonSocial":"marcelo francisco barrientos jeldes",
+            "ingMontoPesos":"4382.8599999999997",
+            "Haber":"2191.4299000000001",
+            "Saldo":"2191.4300999999996"
+         },
+         {
+            "opeCliente":"10.527.590-0",
+            "opeReserva":"1",
+            "cliRazonSocial":"maria gracia sandoval pinilla",
+            "ingMontoPesos":"2004.9400000000001",
+            "Haber":"400.988",
+            "Saldo":"1603.952"
+         },
+         {
+            "opeCliente":"15.244.503-2",
+            "opeReserva":"1",
+            "cliRazonSocial":"maria jesus benito",
+            "ingMontoPesos":"2099.0",
+            "Haber":"26.569099999999999",
+            "Saldo":"2072.4308999999998"
+         },
+         {
+            "opeCliente":"10.455.898-4",
+            "opeReserva":"1",
+            "cliRazonSocial":"marili ang\u00e9lica vallejos morales",
+            "ingMontoPesos":"4488.1099999999997",
+            "Haber":"448.86619999999999",
+            "Saldo":"4039.2437999999997"
+         },
+         {
+            "opeCliente":"18.800.002-9",
+            "opeReserva":"1",
+            "cliRazonSocial":"matias gonzalo uribe escobar",
+            "ingMontoPesos":"2968.9299999999998",
+            "Haber":"296.89300000000003",
+            "Saldo":"2672.0369999999998"
+         },
+         {
+            "opeCliente":"18.504.278-2",
+            "opeReserva":"1",
+            "cliRazonSocial":"matias ignacio rabert barr\u00eda",
+            "ingMontoPesos":"1894.3499999999999",
+            "Haber":"94.717500000000001",
+            "Saldo":"1799.6324999999999"
+         },
+         {
+            "opeCliente":"13.757.298-2",
+            "opeReserva":"3",
+            "cliRazonSocial":"mauricio castro retamal",
+            "ingMontoPesos":"2055.0700000000002",
+            "Haber":"205.50700000000001",
+            "Saldo":"1849.5630000000001"
+         },
+         {
+            "opeCliente":"13.757.298-2",
+            "opeReserva":"2",
+            "cliRazonSocial":"mauricio castro retamal",
+            "ingMontoPesos":"2110.46",
+            "Haber":"211.04599999999999",
+            "Saldo":"1899.414"
+         },
+         {
+            "opeCliente":"14.218.869-4",
+            "opeReserva":"1",
+            "cliRazonSocial":"natalia andrea figueroa mu\u00f1oz",
+            "ingMontoPesos":"1873.8099999999999",
+            "Haber":"374.38099999999997",
+            "Saldo":"1499.4290000000001"
+         },
+         {
+            "opeCliente":"17.200.192-0",
+            "opeReserva":"1",
+            "cliRazonSocial":"nicole macarena anders contreras",
+            "ingMontoPesos":"1851.28",
+            "Haber":"185.12799999999999",
+            "Saldo":"1666.152"
+         },
+         {
+            "opeCliente":"17.023.880-K",
+            "opeReserva":"1",
+            "cliRazonSocial":"nicole rojas mendez",
+            "ingMontoPesos":"3220.0",
+            "Haber":"1028.0",
+            "Saldo":"2192.0"
+         },
+         {
+            "opeCliente":"18.485.596-8",
+            "opeReserva":"1",
+            "cliRazonSocial":"pablo antonio alvarez rivas",
+            "ingMontoPesos":"1869.8099999999999",
+            "Haber":"373.96199999999999",
+            "Saldo":"1495.848"
+         },
+         {
+            "opeCliente":"17.982.694-1",
+            "opeReserva":"1",
+            "cliRazonSocial":"paulina vergara teuber",
+            "ingMontoPesos":"1902.5",
+            "Haber":"380.5",
+            "Saldo":"1522.0"
+         },
+         {
+            "opeCliente":"8.239.776-0",
+            "opeReserva":"1",
+            "cliRazonSocial":"pedro pablo abello ramos",
+            "ingMontoPesos":"3949.0",
+            "Haber":"1649.0",
+            "Saldo":"2300.0"
+         },
+         {
+            "opeCliente":"15.512.523-3",
+            "opeReserva":"2",
+            "cliRazonSocial":"rodrigo antonio fernandez meza",
+            "ingMontoPesos":"2249.6700000000001",
+            "Haber":"649.6739",
+            "Saldo":"1599.9961000000001"
+         },
+         {
+            "opeCliente":"76.937.017-K",
+            "opeReserva":"1",
+            "cliRazonSocial":"servicios quiropracticos bienestar y salud spa",
+            "ingMontoPesos":"10002.02",
+            "Haber":"500.101",
+            "Saldo":"9501.9189999999999"
+         },
+         {
+            "opeCliente":"77.942.315-8",
+            "opeReserva":"1",
+            "cliRazonSocial":"sociedad inmobiliaria fva spa",
+            "ingMontoPesos":"2166.0",
+            "Haber":"26.7102",
+            "Saldo":"2139.2898"
+         },
+         {
+            "opeCliente":"16.097.278-5",
+            "opeReserva":"1",
+            "cliRazonSocial":"tamara andrea pacheco fuentes",
+            "ingMontoPesos":"1886.3499999999999",
+            "Haber":"377.26999999999998",
+            "Saldo":"1509.0799999999999"
+         },
+         {
+            "opeCliente":"16.425.898-K",
+            "opeReserva":"1",
+            "cliRazonSocial":"victor isaias silva benavides",
+            "ingMontoPesos":"1863.25",
+            "Haber":"218.98479999999998",
+            "Saldo":"1644.2652"
+         }
+      ]
+   }
+}
